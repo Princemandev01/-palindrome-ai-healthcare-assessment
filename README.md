@@ -1,7 +1,7 @@
 Palindrome Data - Healthcare Risk Analysis System
 AI Solutions Engineer Assessment
 Author: Prince Nyuswa  
-Contact: princenyuswa12@gmail.com | 069 992 5992
+Contact: princenyuswa12@gmail.com |  069 992 5992
 Time Invested: 2 hours 30 minutes  
 Date: November 24, 2025
 
@@ -113,7 +113,7 @@ The dashboard shows:
 **Prince Nyuswa**  
 AI Solutions Engineer Candidate  
 Email: princenyuswa12@gmail.com  
-Phone: 069 992 5992
+Phone:  069 992 5992
 Location: Johannesburg, South Africa
 
 ---
